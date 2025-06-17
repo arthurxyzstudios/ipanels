@@ -1,0 +1,4 @@
+# username|expire_date (YYYY-MM-DD)
+arthurxyz|2025-12-30
+user123|2025-07-01
+testakun|2025-06-20
