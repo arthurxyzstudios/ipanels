@@ -1,3 +1,1 @@
-# username|expire_date (YYYY-MM-DD)
-arthurxyz|2026-12-30
-vip1|2026-07-01
+167.71.216.125
